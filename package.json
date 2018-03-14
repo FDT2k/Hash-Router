@@ -5,8 +5,8 @@
   "contributors": [ "Anton Rodin <sloot14@gmail.com>", "LordRatte" ],
   "version": "1.2.7",
   "description": "Tiny and lightweight browser router library, developed with SPA in mind :)",
-  "main": "src/hash-router.js",
-  "files": [ "src/hash-router.js", "src/hash-router.min.js", "src/hash-router.min.js.map" ],
+  "main": "src/hash-router.es6",
+  "files": [ "src/hash-router.es6","src/hash-router.js", "src/hash-router.min.js", "src/hash-router.min.js.map" ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/michaelsogos/Hash-Router.git"

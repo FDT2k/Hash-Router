@@ -1,5 +1,5 @@
 /*!
- * hash-router v1.2.7
+ * hash-router v1.3
  * https://github.com/michaelsogos/Hash-Router
  *
  * Developed by Michael Sogos
